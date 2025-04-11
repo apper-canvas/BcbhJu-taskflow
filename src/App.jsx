@@ -33,7 +33,7 @@ function App() {
               animate={{ rotate: 0 }}
               className="text-primary font-bold text-2xl"
             >
-              TaskFlow 3
+              TaskFlow 4
             </motion.div>
           </div>
           <motion.button
